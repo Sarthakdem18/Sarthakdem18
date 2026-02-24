@@ -1,5 +1,5 @@
 #  About Me:
-Passionate Computer Science student studying in Delhi Technological University, Delhi.<br>I enjoy working with Machine Learning and Natural Language Processing, focussing on regulating speech on social media and evaluating and creating LLMs.<br>I have experience with Full Stack Development and MERN stack, and is currently aiming for excellence in these particular fields, through research and actively contributing new ideas via my projects.
+Passionate Computer Science student studying in Delhi Technological University, Delhi.<br>I enjoy working with Machine Learning and Natural Language Processing, focussing on regulating speech on social media and evaluating and creating LLMs.<br>I have experience with Full Stack Development and MERN stack, and is currently aiming for excellence in these particular fields, through research and actively contributing new ideas via my projects. Actively seeking internships in AI-ML and Web Development.
 
 
 ## 🌐 Socials:

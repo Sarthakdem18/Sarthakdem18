@@ -1,9 +1,15 @@
 <p align="center">
   <img src="cat-dance-cat-ascii.gif" width="600" alt="ASCII dancing cats" />
 </p>
-#  About Me:
-Passionate Computer Science student studying in Delhi Technological University, Delhi.<br>I enjoy working with Machine Learning and Natural Language Processing, focussing on regulating speech on social media and evaluating and creating LLMs.<br>I have experience with Full Stack Development and MERN stack, and is currently aiming for excellence in these particular fields, through research and actively contributing new ideas via my projects. Actively seeking internships in AI-ML and Web Development.
 
+#  About Me:
+I'm a Computer Science student at Delhi Technological University who enjoys building things at the intersection of software engineering and AI.
+
+I'm particularly interested in **LLMs, NLP, blockchain, and distributed systems** — from exploring intelligent systems to understanding the infrastructure that makes software reliable and scalable.
+
+I like learning by building, experimenting with ideas, and going beyond the surface of how things work. Most of my projects are driven by curiosity, a love for solving technical problems, and the urge to turn interesting ideas into working software.
+
+Always exploring, always building. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthaktomar282) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-tomar-702b56229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak4845@gmail.com) 
